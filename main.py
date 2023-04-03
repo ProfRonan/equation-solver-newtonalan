@@ -34,7 +34,7 @@ elif (g == 2):
         elif ((b ** 2) - (4 * a * c)) > 0:
             r1 = (-b + (math.sqrt((b**2) - (4 * a * c)))) / 2 * a
             r2 = (-b + (math.sqrt((b**2) - (4 * a * c)))) / 2 * a
-            print(f"A equação possui duas raizes reais, {r1:.2f}, {r2:.2f}")
+            print(f"A equação possui duas raízes reais, {r1:.2f}, {r2:.2f}")
 
     
 else:
