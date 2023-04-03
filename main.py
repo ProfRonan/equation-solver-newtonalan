@@ -18,6 +18,7 @@ if g == 1:
         
 
 elif (g == 2):
+    print("A equação é do segundo grau")
     a = float(input("Digite o valor de A: \n"))
     if a == 0:
         print("Valor de a inválido")
